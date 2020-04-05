@@ -27,7 +27,7 @@ export const Contact = () => (
       </ul>
     </Details>
     <Thumbnail>
-      <img src={contact} alt="Eu sou o Gabriel, sou um desenvolvedor Backend/Fulltack!" />
+      <img src={contact} alt="Eu sou o Gabriel, sou um desenvolvedor Backend/Fullstack!" />
     </Thumbnail>
   </Wrapper>
 );
