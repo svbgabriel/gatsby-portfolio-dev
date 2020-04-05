@@ -41,6 +41,14 @@ export const Details = styled.div`
     line-height: 1.3;
     color: #707070;
   }
+
+  ul li {
+    margin-bottom: 2.5rem;
+    font-size: 20pt;
+    font-weight: normal;
+    line-height: 1.3;
+    color: #707070;
+  }
 `;
 
 export const Thumbnail = styled.div`

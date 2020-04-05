@@ -34,6 +34,26 @@ export const Details = styled.div`
     line-height: 1.3;
     color: #707070;
   }
+
+  ul {
+    list-style-type: none;
+
+    li {
+      a {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        color: #707070;
+      }
+
+      a:hover,
+      a:visited,
+      a:link,
+      a:active {
+        text-decoration: none;
+      }
+    }
+  }
 `;
 
 export const Thumbnail = styled.div`
